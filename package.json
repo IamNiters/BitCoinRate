@@ -1,0 +1,29 @@
+{
+  "name": "bitcoinrate",
+  "version": "1.0.0",
+  "description": "Bitcoin rate project in NextJs",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next",
+    "build" : "next build",
+    "start" : "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamNiters/BitCoinRate.git"
+  },
+  "keywords": [
+    "NextJs"
+  ],
+  "author": "Ismael_Bernard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamNiters/BitCoinRate/issues"
+  },
+  "homepage": "https://github.com/IamNiters/BitCoinRate#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
